@@ -1,0 +1,2 @@
+ivonaAccessKey = "XXXXXXXXXX"
+ivonaSecretKey = "XXXXXXXXXX"
